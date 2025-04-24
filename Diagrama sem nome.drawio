@@ -4,8 +4,50 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2kkdEwzgxpmdob0iFZP8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2kkdEwzgxpmdob0iFZP8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2kkdEwzgxpmdob0iFZP8-2" value="Conhecimentos gerais em BD (e BI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="359" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-10" value="Banco de Dados" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2kkdEwzgxpmdob0iFZP8-11" target="2kkdEwzgxpmdob0iFZP8-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2kkdEwzgxpmdob0iFZP8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-11" value="BI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="404" y="528" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-14" value="Já ouvi falar de Power BI, e sei que as empresas (principalmente as pessoas de marketing) usam bastante para traçar perfis de usuários e o &quot;desempenho&quot; da empresa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="640" width="241" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2kkdEwzgxpmdob0iFZP8-19" target="2kkdEwzgxpmdob0iFZP8-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-19" value="Expectativas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="528" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kkdEwzgxpmdob0iFZP8-20" value="Eu gosto bastante de SQL mas não tanto de análise de dados. Acho BI curioso e sei que é bastante utilizado no mercado, então espero aprender pelo menos o básico para poder enrolar em uma entrevista de emprego." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="580" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
